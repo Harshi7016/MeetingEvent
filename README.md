@@ -1,2 +1,2 @@
-# MyBlog
+# Meeting Event
 Created with CodeSandbox
